@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8BQagpuvCgsOlWYovFWxznxB3ns/KOT0Jxpw5N3mskDAOHT2gUzZnJXDyO7+vT4iE2YPQWLMnOLoxBh1CsGRSA==",
+  "dgSpecHash": "8mmeopxSvoebIxUK2tntQRY6WQZLJCmHe7SnPMSMMzF0+fW2cqCv9R3PgyYedku/ao8iUjW2p4U/4gsj18LO1Q==",
   "success": true,
-  "projectFilePath": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
+  "projectFilePath": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.16/microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",

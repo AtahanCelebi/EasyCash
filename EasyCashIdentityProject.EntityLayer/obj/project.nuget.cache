@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uYKWMDCv5oKZwQCz1J9MQmmUuJTrx8fH8EmHp1mOYGU1QNt0XvpXVoYDDEv21ufvIfmLWB+2ta3T4y7rdjeCrw==",
+  "dgSpecHash": "sUjwH78ivi54braUR/bL89/7wG/IUMmaqnmK80bOxesWuilXiJ1voYgsrLhntKabzeWFUt3NTC6YeF701BQLtQ==",
   "success": true,
-  "projectFilePath": "/Users/apple/Projects/EasyCashIdentityProject/EasyCashIdentityProject.EntityLayer/EasyCashIdentityProject.EntityLayer.csproj",
+  "projectFilePath": "/Users/apple/GitEashCash/EasyCash/EasyCashIdentityProject.EntityLayer/EasyCashIdentityProject.EntityLayer.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

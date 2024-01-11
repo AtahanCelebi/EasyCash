@@ -1004,11 +1004,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
+      "projectUniqueName": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
       "projectName": "EashCashIdentityProject.BusinessLayer",
-      "projectPath": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
+      "projectPath": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.BusinessLayer/obj/",
+      "outputPath": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.BusinessLayer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"

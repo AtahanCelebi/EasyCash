@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj": {}
+    "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj": {}
   },
   "projects": {
-    "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj": {
+    "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj",
+        "projectUniqueName": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj",
         "projectName": "EashCashIdentityProject.DtoLayer",
-        "projectPath": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj",
+        "projectPath": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.DtoLayer/EashCashIdentityProject.DtoLayer.csproj",
         "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Projects/EasyCashIdentityProject/EashCashIdentityProject.DtoLayer/obj/",
+        "outputPath": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.DtoLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apple/.nuget/NuGet/NuGet.Config"
