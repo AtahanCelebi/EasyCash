@@ -14,5 +14,6 @@ namespace EasycashIdentityProject.EntityLayer.Concrete
 
         public string ImageUrl { get; set; }
 
+        public List<CustomerAccount> CustomerAccounts { get; set; }
     }
 }
