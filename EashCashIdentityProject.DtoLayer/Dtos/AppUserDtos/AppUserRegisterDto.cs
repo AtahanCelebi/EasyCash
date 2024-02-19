@@ -1,5 +1,6 @@
     using System.ComponentModel;
     using System.ComponentModel.DataAnnotations;
+    namespace EashCashIdentityProject.DtoLayer.Dtos.AppUserDto;
     public class AppUserRegisterDto
     {
         /*[Required(ErrorMessage = "Ad alanı zorunludur")]

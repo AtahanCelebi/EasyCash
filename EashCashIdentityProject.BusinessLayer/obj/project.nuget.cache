@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8mmeopxSvoebIxUK2tntQRY6WQZLJCmHe7SnPMSMMzF0+fW2cqCv9R3PgyYedku/ao8iUjW2p4U/4gsj18LO1Q==",
+  "dgSpecHash": "HKpYlIFdUVfDLOOFA5Wxvn/2Stkh/K3KTlonbtOVATWKzA4yvH9zd8ObGpwOSKJPyJuFeo3ahEpQVo7Af+ENHg==",
   "success": true,
   "projectFilePath": "/Users/apple/GitEashCash/EasyCash/EashCashIdentityProject.BusinessLayer/EashCashIdentityProject.BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/fluentvalidation/11.9.0/fluentvalidation.11.9.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/apple/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.16/microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.16/microsoft.aspnetcore.cryptography.keyderivation.6.0.16.nupkg.sha512",
